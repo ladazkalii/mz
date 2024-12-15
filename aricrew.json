@@ -1,0 +1,38 @@
+{
+  "mode": "disable",
+  "sync": false,
+  "autoBackup": false,
+  "passthrough": "",
+  "theme": "",
+  "container": {
+    "incognito": "",
+    "container-1": "",
+    "container-2": "",
+    "container-3": "",
+    "container-4": ""
+  },
+  "commands": {
+    "setProxy": "",
+    "setTabProxy": "",
+    "quickAdd": ""
+  },
+  "data": [
+    {
+      "active": true,
+      "title": "",
+      "type": "http",
+      "hostname": "gw.dataimpulse.com",
+      "port": "10001",
+      "username": "aa1bbb42ebf8047790d5__cr.au",
+      "password": "005d3d6538c06a08",
+      "cc": "",
+      "city": "",
+      "color": "#ff8c00",
+      "pac": "",
+      "pacString": "",
+      "proxyDNS": true,
+      "include": [],
+      "exclude": []
+    }
+  ]
+}
