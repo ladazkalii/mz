@@ -1,0 +1,38 @@
+{
+  "mode": "disable",
+  "sync": false,
+  "autoBackup": false,
+  "passthrough": "",
+  "theme": "",
+  "container": {
+    "incognito": "",
+    "container-1": "",
+    "container-2": "",
+    "container-3": "",
+    "container-4": ""
+  },
+  "commands": {
+    "setProxy": "",
+    "setTabProxy": "",
+    "quickAdd": ""
+  },
+  "data": [
+    {
+      "active": true,
+      "title": "",
+      "type": "http",
+      "hostname": "gw.dataimpulse.com",
+      "port": "10001",
+      "username": "9a88c0f2e53da9ef3be3__cr.us",
+      "password": "70b0113649b957ce",
+      "cc": "",
+      "city": "",
+      "color": "#ff8c00",
+      "pac": "",
+      "pacString": "",
+      "proxyDNS": true,
+      "include": [],
+      "exclude": []
+    }
+  ]
+}
